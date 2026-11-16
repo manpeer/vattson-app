@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Vattson</string>
+    <string name="donut_clock_widget_description">24-hour electricity price donut clock.</string>
+</resources>

@@ -1,0 +1,28 @@
+# Gradle & Build outputs
+.gradle/
+build/
+**/build/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Local configuration & Secrets
+local.properties
+*.jks
+*.keystore
+
+# IDE / Android Studio
+.idea/
+*.iml
+.navigation/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Logs & Temporary files
+*.log
+tmp/
+.artifacts/
+AGENTS.md
